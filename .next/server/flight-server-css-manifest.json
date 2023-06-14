@@ -2,10 +2,14 @@
   "cssImports": {
     "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\layout.tsx": [
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss"
+    ],
+    "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.tsx": [
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.module.scss"
     ]
   },
   "cssModules": {
     "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page": [
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.module.scss",
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss"
     ]
   }
