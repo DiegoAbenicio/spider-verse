@@ -10,6 +10,54 @@
 /*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/HeroesList/heroesList.module.scss ***!
   \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.heroesList_heroes__Kjo1X {
+  align-items: flex-end;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1220px;
+  position: absolute;
+  top: 40%;
+  width: 100%;
+}
+@media screen and (min-width: 1920px) {
+  .heroesList_heroes__Kjo1X {
+    max-width: 1520px;
+    top: 50%;
+  }
+}
+
+.heroesList_imageContainer__Wn1Si {
+  cursor: pointer;
+  position: relative;
+}
+.heroesList_imageContainer__Wn1Si img {
+  height: 100%;
+  object-fit: contain;
+  object-position: bottom;
+  width: 100%;
+}
+.heroesList_imageContainer__Wn1Si.heroesList_spider-man-616__rCk_7 {
+  height: 360px;
+}
+.heroesList_imageContainer__Wn1Si.heroesList_mulher-aranha-65__ET8N9 {
+  height: 300px;
+}
+.heroesList_imageContainer__Wn1Si.heroesList_spider-man-1610__KBAEQ {
+  height: 324px;
+}
+.heroesList_imageContainer__Wn1Si.heroesList_sp-dr-14512__CAYly {
+  height: 324px;
+}
+.heroesList_imageContainer__Wn1Si.heroesList_spider-ham-8311__JV4b4 {
+  height: 146px;
+}
+.heroesList_imageContainer__Wn1Si.heroesList_spider-man-90214__n3Q1j {
+  height: 376px;
+}
+.heroesList_imageContainer__Wn1Si.heroesList_spider-man-928__3A7Wk {
+  height: 360px;
+}
+
 .heroesList_title__bHcIA {
   font-size: 26vw;
   margin: 0;

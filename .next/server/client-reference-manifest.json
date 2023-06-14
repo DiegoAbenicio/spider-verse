@@ -176,6 +176,146 @@
         "async": false
       }
     },
+    "(app-client)/./public/spiders/mulher-aranha-65.png": {
+      "*": {
+        "id": "(sc_client)/./public/spiders/mulher-aranha-65.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/spiders/mulher-aranha-65.png",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/spiders/mulher-aranha-65.png",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/spiders/sp-dr-14512.png": {
+      "*": {
+        "id": "(sc_client)/./public/spiders/sp-dr-14512.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/spiders/sp-dr-14512.png",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/spiders/sp-dr-14512.png",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/spiders/spider-ham-8311.png": {
+      "*": {
+        "id": "(sc_client)/./public/spiders/spider-ham-8311.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/spiders/spider-ham-8311.png",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/spiders/spider-ham-8311.png",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/spiders/spider-man-1610.png": {
+      "*": {
+        "id": "(sc_client)/./public/spiders/spider-man-1610.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/spiders/spider-man-1610.png",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/spiders/spider-man-1610.png",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/spiders/spider-man-616.png": {
+      "*": {
+        "id": "(sc_client)/./public/spiders/spider-man-616.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/spiders/spider-man-616.png",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/spiders/spider-man-616.png",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/spiders/spider-man-90214.png": {
+      "*": {
+        "id": "(sc_client)/./public/spiders/spider-man-90214.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/spiders/spider-man-90214.png",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/spiders/spider-man-90214.png",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./public/spiders/spider-man-928.png": {
+      "*": {
+        "id": "(sc_client)/./public/spiders/spider-man-928.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./public/spiders/spider-man-928.png",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/spiders/spider-man-928.png",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./node_modules/next/dist/client/image.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
@@ -191,26 +331,6 @@
       },
       "default": {
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "default",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "",
-        "chunks": [],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [],
         "async": false
@@ -238,6 +358,26 @@
       "defaultHead": {
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
         "chunks": [],
         "async": false
       }
@@ -938,12 +1078,173 @@
         "static/css/app/page.css"
       ]
     },
-    "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss#": {
-      "id": "null",
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\mulher-aranha-65.png": {
+      "id": "(app-client)/./public/spiders/mulher-aranha-65.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\mulher-aranha-65.png#": {
+      "id": "(app-client)/./public/spiders/mulher-aranha-65.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\mulher-aranha-65.png#default": {
+      "id": "(app-client)/./public/spiders/mulher-aranha-65.png",
       "name": "default",
       "chunks": [
-        "static/css/app/layout.css"
-      ]
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\sp-dr-14512.png": {
+      "id": "(app-client)/./public/spiders/sp-dr-14512.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\sp-dr-14512.png#": {
+      "id": "(app-client)/./public/spiders/sp-dr-14512.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\sp-dr-14512.png#default": {
+      "id": "(app-client)/./public/spiders/sp-dr-14512.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-ham-8311.png": {
+      "id": "(app-client)/./public/spiders/spider-ham-8311.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-ham-8311.png#": {
+      "id": "(app-client)/./public/spiders/spider-ham-8311.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-ham-8311.png#default": {
+      "id": "(app-client)/./public/spiders/spider-ham-8311.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-1610.png": {
+      "id": "(app-client)/./public/spiders/spider-man-1610.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-1610.png#": {
+      "id": "(app-client)/./public/spiders/spider-man-1610.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-1610.png#default": {
+      "id": "(app-client)/./public/spiders/spider-man-1610.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-616.png": {
+      "id": "(app-client)/./public/spiders/spider-man-616.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-616.png#": {
+      "id": "(app-client)/./public/spiders/spider-man-616.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-616.png#default": {
+      "id": "(app-client)/./public/spiders/spider-man-616.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-90214.png": {
+      "id": "(app-client)/./public/spiders/spider-man-90214.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-90214.png#": {
+      "id": "(app-client)/./public/spiders/spider-man-90214.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-90214.png#default": {
+      "id": "(app-client)/./public/spiders/spider-man-90214.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-928.png": {
+      "id": "(app-client)/./public/spiders/spider-man-928.png",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-928.png#": {
+      "id": "(app-client)/./public/spiders/spider-man-928.png",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\public\\spiders\\spider-man-928.png#default": {
+      "id": "(app-client)/./public/spiders/spider-man-928.png",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
     },
     "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
@@ -987,54 +1288,6 @@
     },
     "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
@@ -1100,6 +1353,61 @@
     "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
       ],
