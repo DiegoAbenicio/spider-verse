@@ -336,6 +336,26 @@
         "async": false
       }
     },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
@@ -362,21 +382,21 @@
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
+    "(app-client)/./src/components/HeroesList/index.tsx": {
       "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "id": "(sc_client)/./src/components/HeroesList/index.tsx",
         "name": "*",
         "chunks": [],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "id": "(sc_client)/./src/components/HeroesList/index.tsx",
         "name": "",
         "chunks": [],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "id": "(sc_client)/./src/components/HeroesList/index.tsx",
         "name": "default",
         "chunks": [],
         "async": false
@@ -1294,6 +1314,54 @@
       ],
       "async": false
     },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
     "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\shared\\lib\\head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
@@ -1358,60 +1426,36 @@
       ],
       "async": false
     },
+    "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroesList\\index.tsx": {
+      "id": "(app-client)/./src/components/HeroesList/index.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroesList\\index.tsx#": {
+      "id": "(app-client)/./src/components/HeroesList/index.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroesList\\index.tsx#default": {
+      "id": "(app-client)/./src/components/HeroesList/index.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
     }
   }
 }
