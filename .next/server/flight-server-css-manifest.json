@@ -1,12 +1,12 @@
 {
   "cssImports": {
     "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\layout.tsx": [
-      "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss"
     ]
   },
   "cssModules": {
     "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page": [
-      "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss"
     ]
   }
 }
