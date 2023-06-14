@@ -917,7 +917,21 @@
       ],
       "async": false
     },
+    "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\local\\target.css?{\"path\":\"src\\\\fonts\\\\index.ts\",\"import\":\"\",\"arguments\":[{\"src\":\"../fonts/spider-man.otf\",\"weight\":\"400\",\"display\":\"swap\"}],\"variableName\":\"spidermanFont\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
     "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.module.scss#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css"
+      ]
+    },
+    "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroesList\\heroesList.module.scss#": {
       "id": "null",
       "name": "default",
       "chunks": [

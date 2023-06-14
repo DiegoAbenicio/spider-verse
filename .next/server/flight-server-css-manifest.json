@@ -4,11 +4,15 @@
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss"
     ],
     "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.tsx": [
-      "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.module.scss"
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.module.scss",
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroesList\\heroesList.module.scss",
+      "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\local\\target.css?{\"path\":\"src\\\\fonts\\\\index.ts\",\"import\":\"\",\"arguments\":[{\"src\":\"../fonts/spider-man.otf\",\"weight\":\"400\",\"display\":\"swap\"}],\"variableName\":\"spidermanFont\"}"
     ]
   },
   "cssModules": {
     "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page": [
+      "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\local\\target.css?{\"path\":\"src\\\\fonts\\\\index.ts\",\"import\":\"\",\"arguments\":[{\"src\":\"../fonts/spider-man.otf\",\"weight\":\"400\",\"display\":\"swap\"}],\"variableName\":\"spidermanFont\"}",
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroesList\\heroesList.module.scss",
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.module.scss",
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss"
     ]

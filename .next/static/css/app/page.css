@@ -7,3 +7,27 @@
   flex-direction: column;
   position: relative;
 }
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/HeroesList/heroesList.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.heroesList_title__bHcIA {
+  font-size: 26vw;
+  margin: 0;
+}
+@media screen and (min-width: 1920px) {
+  .heroesList_title__bHcIA {
+    font-size: 30rem;
+  }
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[3].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[3].use[2]!./node_modules/next/font/local/target.css?{"path":"src\\fonts\\index.ts","import":"","arguments":[{"src":"../fonts/spider-man.otf","weight":"400","display":"swap"}],"variableName":"spidermanFont"} ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__spidermanFont_f576b6';
+src: url(/_next/static/media/55a3336a1704822b-s.p.otf) format('opentype');
+font-display: swap;
+font-weight: 400;
+}@font-face {font-family: '__spidermanFont_Fallback_f576b6';src: local("Arial");ascent-override: 143.83%;descent-override: 35.03%;line-gap-override: 18.61%;size-adjust: 58.26%
+}.__className_f576b6 {font-family: '__spidermanFont_f576b6', '__spidermanFont_Fallback_f576b6';font-weight: 400
+}
+
