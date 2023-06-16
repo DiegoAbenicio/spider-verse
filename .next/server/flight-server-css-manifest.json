@@ -7,17 +7,27 @@
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.module.scss",
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroesList\\heroesList.module.scss",
       "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\local\\target.css?{\"path\":\"src\\\\fonts\\\\index.ts\",\"import\":\"\",\"arguments\":[{\"src\":\"../fonts/spider-man.otf\",\"weight\":\"400\",\"display\":\"swap\"}],\"variableName\":\"spidermanFont\"}"
+    ],
+    "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\hero\\[id]\\page.tsx": [
+      "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\components\\\\HeroDetails\\\\index.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\",\"600\",\"700\"]}],\"variableName\":\"quicksand\"}",
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroDetails\\heroDetails.module.scss",
+      "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\local\\target.css?{\"path\":\"src\\\\fonts\\\\index.ts\",\"import\":\"\",\"arguments\":[{\"src\":\"../fonts/spider-man.otf\",\"weight\":\"400\",\"display\":\"swap\"}],\"variableName\":\"spidermanFont\"}",
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\Carousel\\carousel.module.scss"
     ]
   },
   "cssModules": {
+    "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\hero\\[id]\\page": [
+      "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\local\\target.css?{\"path\":\"src\\\\fonts\\\\index.ts\",\"import\":\"\",\"arguments\":[{\"src\":\"../fonts/spider-man.otf\",\"weight\":\"400\",\"display\":\"swap\"}],\"variableName\":\"spidermanFont\"}",
+      "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\components\\\\HeroDetails\\\\index.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\",\"600\",\"700\"]}],\"variableName\":\"quicksand\"}",
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroDetails\\heroDetails.module.scss",
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\Carousel\\carousel.module.scss",
+      "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss"
+    ],
     "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page": [
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\page.module.scss",
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss",
       "D:\\Mega\\Programing\\React\\spider-verse\\node_modules\\next\\font\\local\\target.css?{\"path\":\"src\\\\fonts\\\\index.ts\",\"import\":\"\",\"arguments\":[{\"src\":\"../fonts/spider-man.otf\",\"weight\":\"400\",\"display\":\"swap\"}],\"variableName\":\"spidermanFont\"}",
       "D:\\Mega\\Programing\\React\\spider-verse\\src\\components\\HeroesList\\heroesList.module.scss"
-    ],
-    "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\hero\\[id]\\page": [
-      "D:\\Mega\\Programing\\React\\spider-verse\\src\\app\\globals.scss"
     ]
   }
 }
